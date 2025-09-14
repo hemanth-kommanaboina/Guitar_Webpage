@@ -25,11 +25,13 @@ This Multiple-page application highlights smooth 3D rotation, elegant UI, and re
 ---
 
 ## 📂 Project Structure
+
+
 web_page_project/
 ├─ images/ # Multiple guitar images used in the showcase
 │ ├─ guitar1.png
 │ ├─ guitar2.png
-│ ├─ ...
+│ └─ ...
 │
 ├─ index.html # Main webpage
 ├─ style.css # Global styles and animations
@@ -63,9 +65,13 @@ git clone https://github.com/<your-username>/guitar-3d-showcase.git
 # Navigate to the project folder
 cd guitar-3d-showcase
 
+---
+
 📜 License
 
 MIT License – free to use, modify, and distribute.
+
+---
 
 
 Author: Kommanaboina Hemanth
